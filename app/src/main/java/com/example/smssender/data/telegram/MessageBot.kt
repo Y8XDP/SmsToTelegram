@@ -1,7 +1,6 @@
 package com.example.smssender.data.telegram
 
 import com.example.smssender.data.preferences.LocalSettingsDataSource
-import com.example.smssender.telegram.MessageReceiver
 import com.pengrad.telegrambot.TelegramBot
 import com.pengrad.telegrambot.TelegramException
 import com.pengrad.telegrambot.UpdatesListener

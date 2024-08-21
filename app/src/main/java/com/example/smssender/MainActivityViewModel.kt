@@ -9,7 +9,7 @@ import com.example.smssender.common.Transcoder
 import com.example.smssender.data.preferences.LocalSettingsDataSource
 import com.example.smssender.receivers.SMSReceiver
 import com.example.smssender.data.telegram.MessageBot
-import com.example.smssender.telegram.MessageReceiver
+import com.example.smssender.data.telegram.MessageReceiver
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 
